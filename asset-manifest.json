@@ -1,25 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ba969f8d.css",
-    "main.js": "/portfolio/static/js/main.b0ca0ebc.js",
-    "static/media/noloLogo.png": "/portfolio/static/media/noloLogo.66648c5098ebd264adb4.png",
-    "static/media/doctorPic.png": "/portfolio/static/media/doctorPic.742fc43d5657704148bd.png",
-    "static/media/respiratoryRate.svg": "/portfolio/static/media/respiratoryRate.91b9df1e29e5ac8db704985dfba6f58b.svg",
-    "static/media/sections_2.svg": "/portfolio/static/media/sections_2.8e2b21f0f3058da9a4720e82e371322a.svg",
-    "static/media/temperature.svg": "/portfolio/static/media/temperature.bcc3cba2fce6f4d9881558099af8bd22.svg",
-    "static/media/HeartBPM.svg": "/portfolio/static/media/HeartBPM.93064b7ab936b185a665ba2a7b82c70a.svg",
+    "main.css": "/portfolio/static/css/main.7b28aadd.css",
+    "main.js": "/portfolio/static/js/main.8ceb3152.js",
     "index.html": "/portfolio/index.html",
-    "static/media/sections_3.svg": "/portfolio/static/media/sections_3.a507bf19d18aaf3bc29cf5e18b348a13.svg",
-    "static/media/sections_1.svg": "/portfolio/static/media/sections_1.9721604287b838f7bb2d308da7ad58c0.svg",
-    "static/media/sections_5.svg": "/portfolio/static/media/sections_5.f6fad4a06c12d5125e8d504e78466c90.svg",
-    "static/media/sections_4.svg": "/portfolio/static/media/sections_4.d19000e7b1297adb19ca6baf1d700a9e.svg",
-    "static/media/ArrowDown.svg": "/portfolio/static/media/ArrowDown.b9c4d70b22fa0deaa1a5c9a9b6db8157.svg",
-    "static/media/ArrowUp.svg": "/portfolio/static/media/ArrowUp.bc2a412d5da9756768289864c2df3d73.svg",
-    "main.ba969f8d.css.map": "/portfolio/static/css/main.ba969f8d.css.map",
-    "main.b0ca0ebc.js.map": "/portfolio/static/js/main.b0ca0ebc.js.map"
+    "main.7b28aadd.css.map": "/portfolio/static/css/main.7b28aadd.css.map",
+    "main.8ceb3152.js.map": "/portfolio/static/js/main.8ceb3152.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba969f8d.css",
-    "static/js/main.b0ca0ebc.js"
+    "static/css/main.7b28aadd.css",
+    "static/js/main.8ceb3152.js"
   ]
 }
