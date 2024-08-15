@@ -1,0 +1,99 @@
+.record {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.recordCircle{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgb(170, 170, 170);
+    background-color: rgb(230, 230, 230);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.recordCircle__stroke {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.recordCircle__score {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.recordCircle__score__title{
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.recordCircle__score__subtitle{
+    font-size: 16px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.recordCircle__goal{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgb(170, 170, 170);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    top: -15px;
+    left: 70px;
+}
+
+.recordCircle__goal__title{
+    font-size: 14px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.recordCircle__goal__subtitle{
+    font-size: 8px;
+    margin: 0;
+}
+
+.recordStats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.recordStats__input {
+    width: 72px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.recordStats__button {
+    color: white;
+    background-color: rgb(79, 140, 255);
+    border-radius: 4px;
+    border: none;
+    height: 40px;
+    width: 80px;
+    font-size: 16px;
+    font-weight: bold;
+}
